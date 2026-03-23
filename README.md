@@ -34,7 +34,7 @@ This project fine-tunes **TinyLlama 1.1B** using **QLoRA (Parameter-Efficient Fi
 ## 📁 Project Structure
 ```
 financial-qa-finetune/
-├── financial_qa_finetune.ipynb   # Full training notebook
+├── FineTuning_Using_LoRA_and_PEFT.ipynb   # Full training notebook
 └── README.md
 ```
 
