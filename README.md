@@ -128,4 +128,4 @@ print(answer)
 
 **Mani Reddy**
 - HuggingFace: [manireddys](https://huggingface.co/manireddys)
-- GitHub: GitHub: [mani7204mani]([https://github.com/your_github_username](https://github.com/mani7204mani))
+- GitHub: [mani7204mani]([https://github.com/your_github_username](https://github.com/mani7204mani))
